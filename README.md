@@ -104,7 +104,7 @@ Do NOT use with real funds.
 
 ## 🤝 Contributing
 
-Open to ideas, feedback, and PRs.
+Open to feedback.
 
 ---
 
@@ -116,7 +116,7 @@ If you find this interesting, consider starring the repo.
 
 ## 👨‍💻 Author
 
-Sakil Uddin
+MD Sakil Uddin
 
 ---
 
