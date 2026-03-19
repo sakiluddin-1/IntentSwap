@@ -82,8 +82,8 @@ In intent-based systems, liquidity searches for users.
 ```bash
 git clone https://github.com/your-username/intentswap.git
 cd intentswap
-npm install
-npm run dev
+cd ../solver && npm run dev
+cd ../frontend && npm run dev
 ```
 
 ---
