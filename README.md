@@ -90,7 +90,7 @@ npm run dev
 
 ## 📸 Demo
 
-![img]()
+![img](https://github.com/sakiluddin-1/IntentSwap/blob/a39ab1757870b405c1572c800fd2c42d11427606/frontend/public/Screenshot%202026-03-19%20232320.png)
 
 ---
 
